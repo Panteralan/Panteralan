@@ -91,11 +91,11 @@ Complete implementation of game logic and efficient algorithms
 
 ### **🖥️ Local Server (C++/C)**
 Development of advanced data structures for servers
-[![View [![View GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/Panteralan/Creacion-de-Servidor.git)
+[![View [![View GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/Panteralan/Creacion-de-Servidor)
 
 ### **🏨 Hotel Vista Mar (Python)**
 Complete management system with hierarchies and diagrams
-[![View GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github)](https(link to github.com/Panteralan/Hotel-Vista-Mar-creaci-n-Python.git)
+[![View GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/Panteralan/Hotel-Vista-Mar-creaci-n-Python)
 
 ---
 
