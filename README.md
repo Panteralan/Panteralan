@@ -8,7 +8,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+59896057810-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/59896057810)
 [![YouTube](https://img.shields.io/badge/YouTube-UdelAlan-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@alanleonelplaceresruizdiaz5870)
 
-<img src="assets/images/foto-mia.PNG" alt="Alan Placeres" width="200" style="border-radius: 50%;">
+<img src="assets/images/foto mia.PNG" alt="Alan Placeres" width="200" style="border-radius: 50%;">
 
 </div>
 
