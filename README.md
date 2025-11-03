@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Alan Pleasures
+# 👋 Alan Placeres
 ### **Teacher of Programming, Robotics, Computer Science & Full Stack Developer**
 
 [![Email](https://img.shields.io/badge/Email-aplaceres28835@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aplaceres28835@gmail.com)
