@@ -82,8 +82,8 @@ Proficient in educational hardware technologies (**Micro:bit, Lego Education Spi
 
 ## 🚀 Featured Projects
 
-### **🎮 OOP Role Play (Python)** Video game implementing OOP, hierarchies, and advanced classes
-[![View [GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/Panteralan/poo_role_play)
+### **🎮 POO Role Play (Python)** Video game implementing POO, hierarchies, and advanced classes
+[![View GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/Panteralan/poo_role_play)
 
 ### **💣 Minesweeper (Python)**
 Complete implementation of game logic and efficient algorithms
@@ -91,7 +91,7 @@ Complete implementation of game logic and efficient algorithms
 
 ### **🖥️ Local Server (C++/C)**
 Development of advanced data structures for servers
-[![View [![View GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/Panteralan/Creacion-de-Servidor)
+[![View GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/Panteralan/Creacion-de-Servidor)
 
 ### **🏨 Hotel Vista Mar (Python)**
 Complete management system with hierarchies and diagrams
