@@ -46,7 +46,7 @@ Manejo de tecnologías de hardware educativo (**Micro:bit, Lego Education Spike 
 **Instituto Maria Auxiliadora (IMA)** | Abril 2023 - Actual
 
 <div align="center">
-<img src="assets/img/Robot_pintor_CEIBAL_2023.jpg" alt="Robot Pintor" width="400">
+<img src="assets/img/Robot_pintor_CEIBAL_2023.JPG" alt="Robot Pintor" width="400">
 </div>
 
 - 🎯 Diseñé e implementé **más de 12 proyectos integrados** de programación y robótica
