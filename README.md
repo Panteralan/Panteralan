@@ -120,6 +120,7 @@ Interested in collaborating or have any questions? Don't hesitate to contact me:
 - 💻 **GitHub:** [Panteralan](https://github.com/Panteralan)
 - 📱 **WhatsApp:** [+598 96 057 810](https://wa.me/59896057810)
 - 🎥 **YouTube:** [UdelAlan](https://www.youtube.com/@alanleonelplaceresruizdiaz5870)
+- 💻 **CV-Web** [Click to access to my CV Web, in there you know more of my project's ](https://panteralan.github.io/CV-Web-professional-/)
 
 ---
 
