@@ -46,7 +46,7 @@ Manejo de tecnologías de hardware educativo (**Micro:bit, Lego Education Spike 
 **Instituto Maria Auxiliadora (IMA)** | Abril 2023 - Actual
 
 <div align="center">
-<img src="assets/img/robot_pintor_CEIBAL_2023.jpg" alt="Robot Pintor" width="400">
+<img src="assets/img/Robot_pintor_CEIBAL_2023.jpg" alt="Robot Pintor" width="400">
 </div>
 
 - 🎯 Diseñé e implementé **más de 12 proyectos integrados** de programación y robótica
@@ -58,7 +58,7 @@ Manejo de tecnologías de hardware educativo (**Micro:bit, Lego Education Spike 
 **Instituto Divina Pastora** | Octubre 2023 - Diciembre 2024
 
 <div align="center">
-<img src="assets/img/Investigacion.jpg" alt="Virus informáticos" width="400">
+<img src="assets/img/Investigacion.PNG" alt="Virus informáticos" width="400">
 </div>
 
 - 🆕 Introduje **programación, robótica y diseño 3D** por primera vez en el colegio
