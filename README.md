@@ -1,121 +1,120 @@
 <div align="center">
 
-# 👋 Alan Placeres  
-### **Docente de Programación & Desarrollador Full Stack**
+# 👋 Alan Pleasures
+### **Teacher of Programming, Robotics, Computer Science & Full Stack Developer**
 
 [![Email](https://img.shields.io/badge/Email-aplaceres28835@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aplaceres28835@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Panteralan-181717?style=flat&logo=github&logoColor=white)](https://github.com/Panteralan)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+59896057810-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/59896057810)
+[![What sApp](https://img.shields.io/badge/WhatsApp-+59896057810-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/59896057810)
 [![YouTube](https://img.shields.io/badge/YouTube-UdelAlan-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@alanleonelplaceresruizdiaz5870)
 
 <img src="assets/img/foto-mia.PNG" alt="Alan Placeres" width="200" style="border-radius: 50%;">
 
 </div>
 
-## 🎯 Perfil Profesional
+## 🎯 Professional Profile
 
-Estudiante en Ingeniería ORT, docente de programación, ciencias computacionales y robótica educativa. Profesional con sólida experiencia en **Python**, **C++/C***, **HTML5**, **Pascal**, **JavaScript**.
+ORT Engineering student, teacher of programming, computer science, and educational robotics. Professional with solid experience in **Python**, **C++/C***, **HTML5**, **Pascal**, and **JavaScript**.
 
-Manejo de tecnologías de hardware educativo (**Micro:bit, Lego Education Spike Prime y Wedo 2.0, Tinkercad, Arduino**) combinada con una probada habilidad para la enseñanza y la divulgación técnica.
+Proficient in educational hardware technologies (**Micro:bit, Lego Education Spike Prime and Wedo 2.0, Tinkercad, Arduino**) combined with a proven ability for teaching and technical communication.
 
 ---
 
-## 🛠 Habilidades Técnicas
+## 🛠 Technical Skills
 
-### **Lenguajes de Programación**
+### **Programming Languages Programming**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### **Plataformas & Frameworks**
+### **Platforms & Frameworks**
 ![Microbit](https://img.shields.io/badge/Micro:bit-00ED00?style=for-the-badge&logo=microbit&logoColor=white)
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-FF6B35?style=for-the-badge)
 
-### **Ciencia de Datos**
+### **Science of Data**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ---
 
-## 💼 Experiencia Profesional
+## 💼 Professional Experience
 
-### **👨‍🏫 Profesor y Desarrollador de Proyectos Tecnológicos**  
-**Instituto Maria Auxiliadora (IMA)** | Abril 2023 - Actual
+### **👨‍🏫 Professor and Developer of Technological Projects**
+**Maria Auxiliadora Institute (IMA)** | April 2023 - Present
 
 <div align="center">
 <img src="assets/img/Robot_pintor_CEIBAL_2023.JPG" alt="Robot Pintor" width="400">
 </div>
 
-- 🎯 Diseñé e implementé **más de 12 proyectos integrados** de programación y robótica
-- 🚀 Desarrollé plataformas de simulación que **mejoraron la comprensión** de conceptos abstractos  
-- 👥 Capacité a más de **80 estudiantes** en pensamiento lógico y resolución de problemas
-- 🏆 Participación continua en **olimpiadas de robótica CEIBAL STEM**
+- 🎯 Designed and implemented **more than 12 integrated projects** in programming and robotics
+- 🚀 Developed simulation platforms that **improved the understanding** of abstract concepts
+- 👥 Trained more than **80 students** in logical thinking and problem-solving
+- 🏆 Continuous participation in **CEIBAL STEM Robotics Olympiads**
 
-### **💻 Coordinador de Tecnología y Docente**  
-**Instituto Divina Pastora** | Octubre 2023 - Diciembre 2024
+### **💻 Technology Coordinator and Teacher**
+**Divina Pastora Institute** | October 2023 - December 2024
 
 <div align="center">
-<img src="assets/img/Investigacion.PNG" alt="Virus informáticos" width="400">
+<img src="assets/img/Investigacion.PNG" alt="Computer Viruses" width="400">
 </div>
 
-- 🆕 Introduje **programación, robótica y diseño 3D** por primera vez en el colegio
-- 🎮 Estudiantes desarrollaron **videojuegos funcionales en Scratch** desde cero
-- 🔬 Implementamos **sensor de humedad con Micro:bit** - primera experiencia IoT
-- 🛡️ Diseñé **taller de seguridad digital** para adolescentes
+- 🆕 I introduced **programming, robotics, and 3D design** for the first time at the school
+- 🎮 Students developed **functional video games in Scratch** from scratch
+- 🔬 We implemented a **humidity sensor with Micro:bit** - our first IoT experience
+- 🛡️ I designed a **digital security workshop** for teenagers
 
-### **🤖 Profesor de Programación - Equipo STEM**  
-**Colegio Seminario** | Marzo 2024 - Febrero 2025
+### **🤖 Programming Teacher - STEM Team**
+**Seminario School** | March 2024 - February 2025
 
 <div align="center">
 <img src="assets/img/Buscaminas4.PNG" alt="Buscaminas" width="400">
 </div>
 
-- ♿ Colaboré en **proyecto STEM de accesibilidad**: medidor de rampas con Micro:bit
-- 🎯 Resultados **generaron construcción de nuevas rampas** accesibles
-- 💣 Estudiantes realizaron **Buscaminas 100% funcional en Python**
-- 📊 Supervisé **informes técnicos** integrando programación y análisis de datos
+- ♿ I collaborated on a **STEM accessibility project**: ramp measurement with Micro:bit
+- 🎯 Results **led to the construction of new accessible ramps**
+- 💣 Students created a **100% functional Minesweeper in Python**
+- 📊 I supervised **technical reports** integrating programming and data analysis
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
-### **🎮 POO Role Play (Python)**
-Videojuego implementando POO, jerarquías y clases avanzadas
-[![Ver GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/Panteralan/poo_role_play)
+### **🎮 OOP Role Play (Python)** Video game implementing OOP, hierarchies, and advanced classes
+[![View [GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/Panteralan/poo_role_play)
 
-### **💣 Buscaminas (Python)**
-Implementación completa de lógica de juego y algoritmos eficientes
-[![Ver GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/Panteralan/Buscaminas-Python.git)
+### **💣 Minesweeper (Python)**
+Complete implementation of game logic and efficient algorithms
+[![View GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/Panteralan/Buscaminas-Python.git)
 
-### **🖥️ Servidor Local (C++/C)**
-Desarrollo de estructuras de datos avanzadas para servidores
-[![Ver GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/Panteralan/Creacion-de-Servidor.git)
+### **🖥️ Local Server (C++/C)**
+Development of advanced data structures for servers
+[![View [![View GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/Panteralan/Creacion-de-Servidor.git)
 
 ### **🏨 Hotel Vista Mar (Python)**
-Sistema de gestión completo con jerarquías y diagramas
-[![Ver GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github)](https://github.com/Panteralan/Hotel-Vista-Mar-creaci-n-Python.git)
+Complete management system with hierarchies and diagrams
+[![View GitHub](https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github)](https(link to github.com/Panteralan/Hotel-Vista-Mar-creaci-n-Python.git)
 
 ---
 
-## 🎓 Educación & Certificaciones
+## 🎓 Education & Certifications
 
-### **📚 Estudios**
-- **Universidad ORT Uruguay** - Analista en Tecnologías de la Información (En curso)
-- **BIOS** - Técnico en Reparación de PC y Redes (Finalizado)
-- **Universidad de la República** - Ingeniería en Computación (En curso)
+### **📚 Studies**
+- **ORT Uruguay University** - Information Technology Analyst (In progress)
+- **BIOS** - PC and Network Repair Technician (Completed)
+- **University of the Republic** - Computer Engineering (In progress)
 
-### **🏅 Certificaciones**
-- **Programación Orientada a Objetos** - Edutin Academy
+### **🏅 Certifications**
+- **Object-Oriented Programming** - Edutin Academy
 - **MakeCode Arcade & Scratch 3.0** - Ceibal
 
 ---
 
-## 📞 Contacto
+## 📞 Contact
 
-¿Interesado en colaborar o tienes alguna pregunta? No dudes en contactarme:
+Interested in collaborating or have any questions? Don't hesitate to contact me:
 
 - 📧 **Email:** [aplaceres28835@gmail.com](mailto:aplaceres28835@gmail.com)
 - 💻 **GitHub:** [Panteralan](https://github.com/Panteralan)
@@ -126,6 +125,6 @@ Sistema de gestión completo con jerarquías y diagramas
 
 <div align="center">
 
-### ⭐ "Enseñar no es transferir conocimiento, sino crear las posibilidades para su producción" - Paulo Freire
+### ⭐ "Teaching is not transferring knowledge, but creating the possibilities for its production." - Paulo Freire
 
 </div>
